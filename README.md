@@ -3,4 +3,4 @@
 Código retirado do canal Online Tutorials para estudo. Transcrevi todo código em um único arquivo para facilitar a visualização.
 
 [Fonte: Online Tutorials](https://www.youtube.com/watch?v=6HFpw5fcaD8&feature=em-uploademail)
-![Gif do efeito]()
+![Gif do efeito](https://github.com/alexandrebatista2014/Navbar-on-Scroll--Stycky/blob/master/tela-menu.gif)
